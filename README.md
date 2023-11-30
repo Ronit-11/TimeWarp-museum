@@ -10,7 +10,7 @@ Unearth the Past, Explore the Present: A Virtual Reality Journey Through Dinosau
 # How to run the project
 
 1. Clone the repository.
-2. You need to download and install Unity from their official website.
+2. You need to download and install Unity from their 【official website](https://unity.com/download)
 3. Import the project in unity.
 4. Run the unity version while enabling android development modules - Android ADK and JDK modules. 
 5. Install the XRI packages. 
